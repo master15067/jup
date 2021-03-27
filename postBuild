@@ -1,2 +1,1 @@
 wget -q -O gapminder.csv http://bit.ly/2uh4s3g
-wget -q -O 2058697612-transactions.csv https://www.dropbox.com/sh/qcerfvdyjy42xxn/AAATcWdgk2jFHoDaObkfyOfTa?dl=0

@@ -1,0 +1,12 @@
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - scikit-learn
+  - pip
+  - beautifulsoup4
+  - pip:
+      - bash_kernel
+      - GetOldTweets3
